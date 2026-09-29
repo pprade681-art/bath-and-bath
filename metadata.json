@@ -1,0 +1,6 @@
+{
+  "name": "Baby Bliss - Gentle Baby Bath & Care",
+  "description": "Safe, hygienic, and comforting baby bath and baby-care services and products based in New Ak Colony, Annaiah Reddy Layout, Dodda Banaswadi, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
